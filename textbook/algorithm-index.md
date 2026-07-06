@@ -12,9 +12,9 @@ Descriptions below are short paraphrases for planning purposes, not the
 book's own captions.
 
 ## Chapter 2 — Representation (3 algorithms)
-- 2.1 — Data structures for discrete variables and factors (probability tables)
-- 2.2 — Bayesian network data structure (variables + factors + graph)
-- 2.3 — Joint probability of a full assignment via the chain rule
+- 2.1 — Data structures for discrete variables and factors (probability tables) — [folder](../algos/Ch2%20Representation/2.1%20Probability%20Tables)
+- 2.2 — Bayesian network data structure (variables + factors + graph) — [folder](../algos/Ch2%20Representation/2.2%20Bayesian%20Network%20Data%20Structure)
+- 2.3 — Joint probability of a full assignment via the chain rule — [folder](../algos/Ch2%20Representation/2.3%20Joint%20Probability%20Chain%20Rule)
 
 ## Chapter 3 — Inference (11 algorithms)
 - 3.1 — Factor product (combining two factors)
